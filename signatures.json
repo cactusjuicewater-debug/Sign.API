@@ -1,0 +1,24 @@
+[
+  {
+    "id": "example-artist",
+    "name": "Example Artist",
+    "aliases": ["The Example"],
+    "years": "2001–present",
+    "file": "example-artist.svg",
+    "type": "handwritten",
+    "verified": false,
+    "license": { "name": "Own work", "url": "", "status": "redistributable" },
+    "source": { "provider": "self", "url": "" }
+  },
+  {
+    "id": "sample-band",
+    "name": "Sample Band",
+    "aliases": [],
+    "years": "",
+    "file": "sample-band.svg",
+    "type": "handwritten",
+    "verified": false,
+    "license": { "name": "Own work", "url": "", "status": "redistributable" },
+    "source": { "provider": "self", "url": "" }
+  }
+]

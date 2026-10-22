@@ -1,0 +1,7 @@
+{
+  "name": "artist-signature-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Small HTTP API that returns an artist's signature image by name or YouTube Music channel ID.",
+  "license": "MIT"
+}

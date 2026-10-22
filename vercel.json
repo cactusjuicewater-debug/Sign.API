@@ -1,0 +1,9 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/api/index" },
+    { "source": "/v1/health", "destination": "/api/health" },
+    { "source": "/v1/signatures", "destination": "/api/signature" },
+    { "source": "/v1/name/:name", "destination": "/api/signature?artist=:name" },
+    { "source": "/v1/search", "destination": "/api/artists" }
+  ]
+}
