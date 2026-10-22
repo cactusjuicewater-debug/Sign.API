@@ -28,7 +28,7 @@ const ARTISTS = [
     verified: true,
     license: { name: 'Own work', url: '', status: 'redistributable' },
     source: { provider: 'HYBE', url: '' },
-    svg:
+    svg:https://github.com/cactusjuicewater-debug/Sign.API/blob/3801e9b4781b51387287cbc046e2ad5d8467c537/Untitled7_20261020181156.svg
 
 
 
