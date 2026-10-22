@@ -19,8 +19,18 @@ const ARTISTS = [
     license: { name: 'Own work', url: '', status: 'redistributable' },
     source: { provider: 'self', url: '' },
     svg: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 260"><path d="M70 190C100 70 140 70 130 170M130 120C200 100 230 100 240 150S300 190 330 120 380 90 380 170M400 140C470 110 520 120 540 80" fill="none" stroke="#000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/></svg>`
-  }
-];
+  },
+  {
+    id: 'kim-chaewon',
+    name: 'Kim Chaewon',
+    aliases: ['Chaewon of LE SSERAFIM'],
+    years: '2018–present',
+    verified: true,
+    license: { name: 'Own work', url: '', status: 'redistributable' },
+    source: { provider: 'HYBE', url: '' },
+    svg:
+
+
 
 const norm = (s) =>
   String(s || '').normalize('NFKD').replace(/[\u0300-\u036f]/g, '')
